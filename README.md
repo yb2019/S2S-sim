@@ -10,5 +10,5 @@ You can obtain data from our [cloud storage](https://pan.baidu.com/s/11mqQPwbV-Y
 Our dataset can be easily integrated into the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD.git) framework for usage. However, it is important to note that before conducting experiments, adjustments to parameters such as perception range and voxel size need to be made.
 
 ## Citation
-"S2S-Sim: A Benchmark Dataset for Ship Cooperative 3D Object Detection"
+"S2S-Sim: A Benchmark Dataset for Ship Cooperative 3D Object Detection".
 We will provide the BibTeX citation format shortly.
